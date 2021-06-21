@@ -369,7 +369,7 @@ Django = ">=2.2"
 
 [[package]]
 name = "django-webpack-loader"
-version = "0.7.0"
+version = "1.1.0"
 description = "Transparently use webpack with django"
 category = "main"
 optional = false
@@ -1322,7 +1322,7 @@ pgp = ["pgpy"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "f9d6fd467cbad15d66ef85fcf358ec8a2a132a4f630bb8310fe3076f3680d36f"
+content-hash = "b2417f3e57350347dca815104842c70a9cdbd1731e06cff6739b34dd8e75697c"
 
 [metadata.files]
 anyascii = [
@@ -1506,8 +1506,8 @@ django-treebeard = [
     {file = "django_treebeard-4.5.1-py3-none-any.whl", hash = "sha256:7c2b1cdb1e9b46d595825186064a1228bc4d00dbbc186db5b0b9412357fba91c"},
 ]
 django-webpack-loader = [
-    {file = "django-webpack-loader-0.7.0.tar.gz", hash = "sha256:7a3c88201aa54481f9399465615cbe7b9aece8081496a6d0287b7cb8e232f447"},
-    {file = "django_webpack_loader-0.7.0-py2.py3-none-any.whl", hash = "sha256:d28a276ed3d89e97a313b74967e373693f8b86afe629f4c91eea91c5b4f2ec20"},
+    {file = "django-webpack-loader-1.1.0.tar.gz", hash = "sha256:c7f89a272a177a17a045ceab26bbb7e35d28ca5597c384de96817784b610c977"},
+    {file = "django_webpack_loader-1.1.0-py2.py3-none-any.whl", hash = "sha256:8a428355de2f88418209d84ad38bf33ad175fc370d3f778ffec8ea26041e589d"},
 ]
 django-widget-tweaks = [
     {file = "django-widget-tweaks-1.4.8.tar.gz", hash = "sha256:9f91ca4217199b7671971d3c1f323a2bec71a0c27dec6260b3c006fa541bc489"},
