@@ -17,7 +17,7 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.12.10",
-    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-env": "^7.14.7",
     "autoprefixer": "^10.2.3",
     "babel-loader": "^8.2.2",
     "browser-sync": "^2.26.14",
