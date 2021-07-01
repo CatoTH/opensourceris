@@ -26,7 +26,7 @@
     "gulp": "^4.0.2",
     "heml": "^1.1.3",
     "mini-css-extract-plugin": "^1.3.4",
-    "node-sass": "^6.0.0",
+    "node-sass": "^6.0.1",
     "postcss": "^8.2.4",
     "postcss-loader": "^6.1.0",
     "resolve-url-loader": "^4.0.0",
