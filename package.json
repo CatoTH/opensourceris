@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@sentry/browser": "^6.3.6",
-    "bootstrap": "~4.6.0",
+    "bootstrap": "~5.0.2",
     "bootstrap-datepicker": "^1.9.0",
     "bootstrap-daterangepicker": "^2.1.30",
     "chromedriver": "^91.0.1",
